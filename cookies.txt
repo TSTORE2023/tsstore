@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	SI9cwo0.9qqK8REppdoUZ0MfxU3P.DkbhuK1qsP2eEk-1699318566-0-AffS72OOn6/6Peu7MzekzdKPE9hRfTxXRWfaxJgVMTSwxEjShEUcPqYC7kRngUdBTkxwq/hLUuf+SndWa2fkvr4=
+.discordapp.com	TRUE	/	FALSE	1999999999	_cfuvid	ALrUV4Et1VUAk.gnkxBNWjwQXlznZdSrnrpdwHLYqac-1699318566767-0-604800000
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.ryzestore.com	TRUE	/	FALSE	1999999999	store_session_payload_3330155	48ae513f56621b6ffe1bf76d62edcf1516de9c2f%7EIW6aOthaxJwXtilXxJTOny0EycnMDsrYetC4QJx%2F9eULLeW8VB1qjYUW5k0u0LRxdQ0SpUx8KWGgQskphy6nTtZ%2B1xbmwId8cPSh9Ubltfl5J3y6Qxs7w5AarlwljqEaPq0ASB02UWs0TgnyJCaSQXwfWsTcIjXyPWg1s3x5ljQIiFsfwW6UPJdYIdzmQieBNXjGZ2XOf0PLXVZhPOm0W67Zb2Oa%2FKHDSjHH%2B62tjpKsWqalXUGbrTjfd4wO0EtD0Zc9tehL%2BsADTD7yKnBEaay1Ze9GvLiKfZZhREGNd5IMfqtOMhmXgxrHVCrv2elNx%2FmRM0G29Ksvm6LjO1QGuQ%3D%3D
+www.ryzestore.com	TRUE	/	FALSE	1999999999	store_login_session	6de33a53705017bd193e15d066fb52a26e1a53fb%7EaU9fjNopwFKAOvVc73pV8566SMiuJJhxmmxmC687
+ryzestore.com	TRUE	/	FALSE	1999999999	samesite	Lax
+.www.ryzestore.com	TRUE	/	FALSE	1999999999	__cf_bm	_zggaXx4aHrgiuh6HFvTn2d10ak.ZzdQXz9mXFJqhDc-1699319293-0-ATyXEaAFJJI8movA214KVK2XK5Gcksl0HIExsJP2RPM2uBY9AtyfyNeH4lTIhanuvKHmua0wqJBJ3vNWZh8rPiE=
+www.ryzestore.com	TRUE	/	FALSE	1999999999	SameSite	None
+
